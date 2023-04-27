@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="loki">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/loki/loki.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
